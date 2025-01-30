@@ -1,2 +1,5 @@
-# Imers-o_AI_-Alura-
-Repositório dedicado aos projetos e aprendizados da Imersão IA (Google + Alura), um programa com 5 aulas que aborda conceitos essenciais de Inteligência Artificial e o impacto transformador das IAs generativas no mundo atual.🌍🚀
+*Repositório dedicado aos projetos e aprendizados da "Imersão IA (Google + Alura)"* 🌍🚀  
+
+#Uma jornada com **5 aulas práticas** que aborda:  
+- Conceitos essenciais de Inteligência Artificial 🤖
+- O papel transformador das **IAs generativas** no cenário tecnológico atual.  👨🏻‍💻
