@@ -1,18 +1,26 @@
-<div style="margin: 20px; padding: 20px; border-radius: 10px; background: #f8f9fa; text-align: left;">
-  <h2 style="color: #1a73e8; margin-bottom: 15px; font-family: 'Segoe UI', sans-serif;">
-    🚀 Imersão IA <small>(Google + Alura)</small>
-  </h2>
-  
-  <p style="font-size: 16px; color: #444; line-height: 1.6;">
-    🗂️ Repositório dedicado aos projetos e aprendizados desta jornada de <strong>5 aulas práticas</strong> que exploram:
-  </p>
+# 🚀 Imersão IA (Google + Alura) 
 
-  <ul style="list-style: none; padding-left: 20px; margin: 15px 0;">
-    <li style="margin: 10px 0; padding: 8px 15px; background: white; border-radius: 5px; border-left: 4px solid #1a73e8;">
-      🔍 Conceitos essenciais de Inteligência Artificial
-    </li>
-    <li style="margin: 10px 0; padding: 8px 15px; background: white; border-radius: 5px; border-left: 4px solid #1a73e8;">
-      🌟 O impacto revolucionário das <strong>IAs generativas</strong>
-    </li>
-  </ul>
-</div>
+🗂️ **Repositório dedicado aos projetos e aprendizados** desta jornada de **5 aulas práticas** que exploram:
+
+---
+
+### 🌟 Destaques:  
+- 🔍 **Conceitos essenciais** de Inteligência Artificial  
+- 🎨 **IAs generativas**: Transformando ideias em realidade  
+- 🤖 Integração prática com **Gemini API** e Google Colab  
+
+⚡ **Tecnologias usadas**:  
+![Google Colab](https://img.shields.io/badge/Google_Colab-Notebook-orange?style=flat&logo=google-colab&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Generative AI](https://img.shields.io/badge/IA_Generativa-FF6F00?style=flat&logo=ai&logoColor=white)  
+
+---
+
+### 📂 Estrutura da Imersão:  
+```bash
+.
+├── 🚀 aula1/           # Mergulhando no Gemini, a IA do Google  
+├── 📝 aula2/           # Melhores técnicas em Engenharia de Prompt  
+├── ⚙️ aula3/           # Explorando os parâmetros do Google AI Studio  
+├── 🤖 aula4/           # Criando seu próprio chatbot com a Gemini API  
+└── 🔍 aula5/           # Sistema de busca em documentos usando embeddings  
