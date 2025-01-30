@@ -10,26 +10,27 @@ Nesta aula, mergulhamos no universo da Inteligência Artificial do Google, o **G
 ---
 
 ## 🎮 **Tópicos Abordados**  
+
 ### 1. **Apresentando a plataforma do Gemini e suas configurações**  
-   - 🌐 Introdução à interface do Gemini e sua integração com ecossistemas Google.  
-   - ⚙️ Configurações iniciais: personalização de preferências e ajustes de segurança.  
-   - 🔍 Exploração de recursos disponíveis (ex: geração de texto, respostas contextualizadas).  
+- 🌐 Introdução à interface do Gemini e sua integração com ecossistemas Google.  
+- ⚙️ Configurações iniciais: personalização de preferências e ajustes de segurança.  
+- 🔍 Exploração de recursos disponíveis (ex: geração de texto, respostas contextualizadas).  
 
 ### 2. **Primeiras interações com o Google Gemini**  
-   - 💬 "Conversando" com a IA: comandos básicos e perguntas simples.  
-   - 🧩 Testando funcionalidades: exemplos de prompts e análise das respostas.  
-   - 📝 Dicas para formular perguntas eficientes e obter resultados mais precisos.  
+- 💬 "Conversando" com a IA: comandos básicos e perguntas simples.  
+- 🧩 Testando funcionalidades: exemplos de prompts e análise das respostas.  
+- 📝 Dicas para formular perguntas eficientes e obter resultados mais precisos.  
 
 ### 3. **Conceitos iniciais sobre "O que é IA?"**  
-   - 🤔 Discussão guiada pela LLM: definições de **Inteligência Artificial**, **Machine Learning** e **LLMs**.  
-   - 🌟 Entendendo como modelos como o Gemini processam informações e geram respostas.  
-   - ⚠️ Limitações e ética no uso de IA: reflexões trazidas pela própria Gemini durante a interação.  
+- 🤔 Discussão guiada pela LLM: definições de **Inteligência Artificial**, **Machine Learning** e **LLMs**.  
+- 🌟 Entendendo como modelos como o Gemini processam informações e geram respostas.  
+- ⚠️ Limitações e ética no uso de IA: reflexões trazidas pela própria Gemini durante a interação.  
 
 ### 4. **Primeira interação com o Google AI Studio**  
-   - 🛠️ Introdução ao **Google AI Studio**: ambiente de desenvolvimento para criar e testar modelos de IA.  
-   - 🧪 Prototipagem rápida: como criar um projeto simples usando a interface intuitiva.  
-   - 🔄 Comparação entre Gemini e AI Studio: diferenças de uso e objetivos de cada ferramenta.  
-   - 📊 Testes práticos: explorando a geração de conteúdo, ajuste de parâmetros e visualização de resultados.  
+- 🛠️ Introdução ao **Google AI Studio**: ambiente de desenvolvimento para criar e testar modelos de IA.  
+- 🧪 Prototipagem rápida: como criar um projeto simples usando a interface intuitiva.  
+- 🔄 Comparação entre Gemini e AI Studio: diferenças de uso e objetivos de cada ferramenta.  
+- 📊 Testes práticos: explorando a geração de conteúdo, ajuste de parâmetros e visualização de resultados.  
 
 ---
 
@@ -49,3 +50,7 @@ Na próxima aula, vamos:
 ---
 
 > 🌟 *"A IA não substitui a inteligência humana, mas amplifica nossa capacidade de resolver problemas."* — Reflexão gerada pelo Gemini durante a aula.  
+
+**Divirta-se explorando o Gemini e o AI Studio!** 🎉  
+
+👉 **Dica**: Personalize este README com exemplos de códigos ou prints das suas interações no AI Studio! 🖥️  
