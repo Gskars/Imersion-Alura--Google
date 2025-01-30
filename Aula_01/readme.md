@@ -51,6 +51,3 @@ Na próxima aula, vamos:
 
 > 🌟 *"A IA não substitui a inteligência humana, mas amplifica nossa capacidade de resolver problemas."* — Reflexão gerada pelo Gemini durante a aula.  
 
-**Divirta-se explorando o Gemini e o AI Studio!** 🎉  
-
-👉 **Dica**: Personalize este README com exemplos de códigos ou prints das suas interações no AI Studio! 🖥️  
