@@ -19,7 +19,21 @@ Nesta aula, mergulhamos no universo da Inteligência Artificial do Google, o **G
 ### 2. **Primeiras interações com o Google Gemini**  
 - 💬 "Conversando" com a IA: comandos básicos e perguntas simples.  
 - 🧩 Testando funcionalidades: exemplos de prompts e análise das respostas.  
-- 📝 Dicas para formular perguntas eficientes e obter resultados mais precisos.  
+- 📝 Dicas para formular perguntas eficientes e obter resultados mais precisos.
+
+  ---
+
+## 🧠 **Conceitos-Chave**  
+### Arquitetura do Gemini - *Fluxo básico de interação com o Gemini*
+
+```mermaid
+graph LR
+  A[Prompt] --> B(Gemini API)
+  B --> C{Processamento NLP}
+  C --> D[Geração de Resposta]
+  C --> E[Análise de Contexto]
+```
+
 
 ### 3. **Conceitos iniciais sobre "O que é IA?"**  
 - 🤔 Discussão guiada pela LLM: definições de **Inteligência Artificial**, **Machine Learning** e **LLMs**.  
@@ -49,5 +63,4 @@ Na próxima aula, vamos:
 
 ---
 
-> 🌟 *"A IA não substitui a inteligência humana, mas amplifica nossa capacidade de resolver problemas."* — Reflexão gerada pelo Gemini durante a aula.  
-
+> 🌟 *"A IA não substitui a inteligência humana, mas amplifica nossa capacidade de resolver problemas."* — Reflexão gerada pelo Gemini durante a aula.
