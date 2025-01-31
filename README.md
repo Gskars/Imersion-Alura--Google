@@ -1,26 +1,26 @@
-# 🚀 Imersão IA (Google + Alura) 
+# 🚀 AI Immersion (Google + Alura)  
 
-🗂️ **Repositório dedicado aos projetos e aprendizados** desta jornada de **5 aulas práticas** que exploram:
+🗂️ **Repository dedicated to projects and learnings** from this **5 hands-on lessons** journey exploring:  
 
 ---
 
-### 🌟 Destaques:  
-- 🔍 **Conceitos essenciais** de Inteligência Artificial  
-- 🎨 **IAs generativas**: Transformando ideias em realidade  
-- 🤖 Integração prática com **Gemini API** e Google Colab  
+### 🌟 Highlights:  
+- 🔍 **Essential concepts** of Artificial Intelligence  
+- 🎨 **Generative AI**: Transforming ideas into reality  
+- 🤖 Practical integration with **Gemini API** and Google Colab  
 
-⚡ **Tecnologias usadas**:  
+⚡ **Technologies used**:  
 ![Google Colab](https://img.shields.io/badge/Google_Colab-Notebook-orange?style=flat&logo=google-colab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Generative AI](https://img.shields.io/badge/IA_Generativa-FF6F00?style=flat&logo=ai&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=flat&logo=ai&logoColor=white)  
 
 ---
 
-### 📂 Estrutura da Imersão:  
+### 📂 Immersion Structure:  
 ```bash
 .
-├── 🚀 aula1/           # Mergulhando no Gemini, a IA do Google  
-├── 📝 aula2/           # Melhores técnicas em Engenharia de Prompt  
-├── ⚙️ aula3/           # Explorando os parâmetros do Google AI Studio  
-├── 🤖 aula4/           # Criando seu próprio chatbot com a Gemini API  
-└── 🔍 aula5/           # Sistema de busca em documentos usando embeddings  
+├── 🚀 lesson1/           # Diving into Gemini, Google's AI  
+├── 📝 lesson2/           # Best practices in Prompt Engineering  
+├── ⚙️ lesson3/           # Exploring Google AI Studio parameters  
+├── 🤖 lesson4/           # Creating your own chatbot with Gemini API  
+└── 🔍 lesson5/           # Document search system using embeddings
