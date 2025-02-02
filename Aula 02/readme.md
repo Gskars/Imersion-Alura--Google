@@ -18,7 +18,7 @@
 ---
 
 ## ⚠️ **Beware of Hallucinations!**  
-![AI Hallucination](https://www.howtogeek.com/wp-content/uploads/2023/05/ChatGPT-hallucination-example.png?height=200p&trim=2,2,2,2)  
+![Image](https://github.com/user-attachments/assets/734961b0-db6a-4b29-93ff-a0f8050be41b)  
 - 🤯 **Hallucination:** When the LLM's response deviates from the idea you projected to the AI.  
 - 🔍 **Cause:** Lack of contextual clarity in the prompt.  
 
