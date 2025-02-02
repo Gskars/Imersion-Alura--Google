@@ -1,5 +1,5 @@
 # 🚀 Lesson 02 - Best Practices in Prompt Engineering 🛠️  
-![Image](https://github.com/user-attachments/assets/bb05f32e-2695-4473-a8cc-0b17f8e6cf69)
+![Image](https://github.com/user-attachments/assets/bb05f32e-2695-4473-a8cc-0b17f8e6cf69 ) 
 
 - 📌 **Today's Lesson:** We will learn prompt engineering techniques to optimize our work!  
 - 🌟 **Relevance:** A new field in Science that is rapidly growing in the market.  
