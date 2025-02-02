@@ -1,4 +1,5 @@
 # 🚀 Lesson 01 - **Diving into Gemini, Google's AI:** 🤖  
+![Gemini Header](https://t.ctcdn.com.br/GxWgLi5vvsEWb2YF3bPqbUZ1LBQ=/3840x2160/smart/i832185.png) <!-- Replace with actual image URL -->
 
 Welcome to the first lesson in exploring **Google Gemini**! Here you'll find a summary of covered topics, learned concepts, and first steps with this amazing AI tool.  
 
