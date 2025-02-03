@@ -1,6 +1,5 @@
 # 🚀 Lesson 3: **Exploring Google AI Studio Parameters**  
-![Google AI Studio Interface](https://developers.gstatic.com/ai/gemini/docs/images/ai-studio-hero.png) <!-- Illustrative Image -->  
-
+![Image](https://github.com/user-attachments/assets/57761c9b-32a2-43cd-b368-dd2f581c05d1)
 In this lesson, we dive into the advanced functionalities of **Google AI Studio**, exploring its versatility as a **multimodal generative AI tool**.  
 
 ---  
