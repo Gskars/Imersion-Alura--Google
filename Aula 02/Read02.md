@@ -46,7 +46,7 @@ Now, what is the capital of Germany?"
 **3. Few-Shot Chain-of-Thought Prompting 🤔➡️💡:**  
 Show step-by-step reasoning in the examples.
 ```markdown 
-*Example Prompt:*  
+Example Prompt: 
 "Example 1: If 2 + 3 = 5 and 5 + 2 = 7, what is the next number?  
 Thought: 5 + 2 = 7 → next number = 7 + 3 = **10**.  
 Answer: 10.  
@@ -60,7 +60,7 @@ Now, what is the next number after 8 + 4 = 12?"
 ```
 ---
 
-## 📊 Mermaid Diagram: Prompt Workflow: 
+## 📊 Mermaid Diagram: Prompt Workflow
 
 ```mermaid
 graph TD  
